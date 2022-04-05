@@ -68,20 +68,26 @@ df_new
 #saving data   file
 df.to_csv('weight.csv', index=False)
 ```
-### OUTPUT
-Initial data set:
+### OUTPUT :
+## Initial data set:
 ![image](https://user-images.githubusercontent.com/94810884/161677254-a5dc7472-a96c-406a-8857-77bfb41ca014.png)
-Data set after removing non numerical sets:
+
+## Data set after removing non numerical sets:
 ![image](https://user-images.githubusercontent.com/94810884/161677314-102e4773-6b13-4a5b-977d-755c95e9c658.png)
-Graph displaying initial dataset with outliers:
+
+## Graph displaying initial dataset with outliers:
 ![image](https://user-images.githubusercontent.com/94810884/161677377-e5d52176-3736-4585-b84d-ebb054acfe24.png)
-Z scores to detect outliers:
+
+## Z scores to detect outliers:
 ![image](https://user-images.githubusercontent.com/94810884/161677422-fcf9730c-1dac-44dc-9183-667fac0ec0f1.png)
-Data set after removing outliers in weight using z scores and list manipulation:
+
+## Data set after removing outliers in weight using z scores and list manipulation:
 ![image](https://user-images.githubusercontent.com/94810884/161677479-77e40187-f0bf-40c9-ab12-bc67516c7d77.png)
-Graph after removing outliers in weight:
+
+## Graph after removing outliers in weight:
 ![image](https://user-images.githubusercontent.com/94810884/161677562-c7e351e5-c2f3-4b8c-be63-243996a3550f.png)
-Data set after removing outliers in height using Interquartile Range(IQR):
+
+## Data set after removing outliers in height using Interquartile Range(IQR):
 ![image](https://user-images.githubusercontent.com/94810884/161677608-1b83af73-726c-45a9-901b-280805be2d6a.png)
 
 
