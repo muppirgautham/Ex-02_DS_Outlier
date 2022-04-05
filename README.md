@@ -90,5 +90,12 @@ df.to_csv('weight.csv', index=False)
 ## Data set after removing outliers in height using Interquartile Range(IQR):
 ![image](https://user-images.githubusercontent.com/94810884/161677608-1b83af73-726c-45a9-901b-280805be2d6a.png)
 
+## Final graph after removing all outliers:
+![image](https://user-images.githubusercontent.com/94810884/161780611-215ddfd3-4ec9-4d54-a01b-0d8b943a1bf5.png)
+
+## Final data set:
+![image](https://user-images.githubusercontent.com/94810884/161780749-f891371b-629a-4f9b-93f7-d8b8ccc4a24e.png)
+
+
 
 
