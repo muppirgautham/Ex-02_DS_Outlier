@@ -96,6 +96,9 @@ df.to_csv('weight.csv', index=False)
 ## Final data set:
 ![image](https://user-images.githubusercontent.com/94810884/161780749-f891371b-629a-4f9b-93f7-d8b8ccc4a24e.png)
 
+### RESULT:
+Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
+
 
 
 
